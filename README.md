@@ -25,4 +25,4 @@ The following programming languages are ranked by proficiency:
 I love programming languages, so I learn different programming languages as my hobby.
 
 ## Final Words
-Enjoy visiting my profile! You can email me if you would like to connect with me, share your insights on my projects, have a casual talk, or even would like to play Nintendo games (and I would be happy if you can play Pokémon Champions or Mario Kart World etc. so we can train our skills). Have a good day!
+Enjoy visiting my profile! You can email me if you would like to connect with me, share your insights on my projects, have a casual talk, or even play Nintendo games with me (and I would be happy if you can play Pokémon Champions or Mario Kart World etc. with me so we can train our skills). Have a good day!
