@@ -2,7 +2,7 @@
 Hi! I'm Zihao Fang, a master's student in Computer Science at Columbia University. I'm passionate about the ever-changing technologies and willing to embrace them.
 
 ## About
-- Pronouns: he/him/his
+- Pronouns: he/him/his (In fact any pronoun is acceptable and I won't get furious. But it'd be better to call the correct ones).
 - Research Interests: Computer Architecture, Operating System, Compiler, High-Performance Computing
 - Current Research Directions: AI Agnet for Computer Archiecture and Operating System
 
